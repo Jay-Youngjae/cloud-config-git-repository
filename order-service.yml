@@ -21,9 +21,3 @@ custom:
   message: "초기 메세지 - PRDD 환경입니다"
   version: "1.0.0"
 
-management:
-  endpoints:
-    web:
-      # 노출할 엔드포인트 목록(기본값은 비공개로 되어있기 때문)
-      exposure:
-        include: health, refresh
