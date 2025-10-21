@@ -18,6 +18,6 @@ server:
   port: 8080
 
 custom:
-  message: "초기 메세지 - PRDD 환경입니다"
+  message: "변경된 메세지 Test 환경입니다"
   version: "1.0.0"
 
